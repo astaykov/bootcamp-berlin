@@ -201,7 +201,11 @@
     <Content Include="Content\favico\ms-icon-310x310.png" />
     <Content Include="Content\favico\ms-icon-70x70.png" />
     <Content Include="Content\img\astaykov.jpg" />
+    <Content Include="Content\img\florian.jpg" />
+    <Content Include="Content\img\jan.jpg" />
+    <Content Include="Content\img\robert.jpg" />
     <Content Include="Content\microsoft.png" />
+    <Content Include="Content\ut.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />

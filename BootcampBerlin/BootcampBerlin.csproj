@@ -205,6 +205,7 @@
     <Content Include="Content\img\jan.jpg" />
     <Content Include="Content\img\robert.jpg" />
     <Content Include="Content\microsoft.png" />
+    <Content Include="Content\minerva.jpg" />
     <Content Include="Content\ut.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />

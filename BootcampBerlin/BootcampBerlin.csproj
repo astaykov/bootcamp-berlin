@@ -153,6 +153,7 @@
     <Content Include="Content\favico\ms-icon-70x70.png" />
     <Content Include="Content\img\astaykov.jpg" />
     <Content Include="Content\microsoft.png" />
+    <Content Include="Content\MicrosoftAccelerator.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
